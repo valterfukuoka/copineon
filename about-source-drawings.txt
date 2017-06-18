@@ -1,0 +1,5 @@
+To open .odg files you can use OpenOffice or LibreOffice.
+
+To open .fzz files you need Fritzing.
+
+

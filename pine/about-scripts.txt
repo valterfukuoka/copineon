@@ -1,0 +1,10 @@
+Don't forget to make all these scripts 'executable' by issuing a command:
+
+chmod +x *.sh
+
+on the folder that they are...
+
+
+Also, 'myReboot.sh', like the command 'reboot', requires the privileges of the root user.
+
+*next release will have a more consistent way to access the GPIO, the current way is too much simplistic...

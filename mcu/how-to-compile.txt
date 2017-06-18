@@ -1,0 +1,3 @@
+To manual command line compile (using Microchip xc8):
+
+xc8 --chip=12f1501 copineon.c
